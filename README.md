@@ -11,6 +11,7 @@
      <code><img width="25px" src="https://github.com/itsGonn/itsGonn/blob/main/assets/html.svg"></code>
      <code><img width="25px" src="https://github.com/itsGonn/itsGonn/blob/main/assets/javascript.svg"></code>
      <code><img width="25px" src="https://github.com/itsGonn/itsGonn/blob/main/assets/nodejs.svg"></code>
+
   <h4> <i> GitHub Statistics</i></h4>
   <img src="https://github-readme-stats.vercel.app/api?username=itsGonn&show_icons=true&hide_border=true&theme=dark">
 
