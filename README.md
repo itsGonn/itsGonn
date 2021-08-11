@@ -1,4 +1,10 @@
-### Hi there 👋
+  <p align="center"><b>BIO</b></p>
+  <p align="center">💻 Backend Developer.</p>
+  <p align="center">🔒 Security Lover.</p>
+   
+   <p align="center">Discord: <b>itsGonn#1998</b></p>
+   <p align="center">✨ Programming Languages and Tools ✨</p>
+
 
 <!--
 **itsGonn/itsGonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
