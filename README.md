@@ -14,7 +14,7 @@
 
   <h4> <i> GitHub Statistics</i></h4>
   <img src="https://github-readme-stats.vercel.app/api?username=itsGonn&show_icons=true&hide_border=true&theme=dark">
-  ![] https://komarev.com/ghpvc/?username=sammwyy&color=blueviolet
+  ![] (https://komarev.com/ghpvc/?username=sammwyy&color=bluewhite)
   </div>
 
 <!--
