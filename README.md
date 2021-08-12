@@ -1,6 +1,6 @@
   <p align="center"><b>BIO</b></p>
   <p align="center">💻 Backend Developer.</p>
-  <p align="center">🔒 Security Lover.</p>
+  <p align="center">🔒 Security.</p>
    
    <p align="center"><img width="14px" src="https://github.com/itsGonn/itsGonn/blob/main/assets/discord.svg"><b> Discord: itsGonn#1998</b></p>
 
